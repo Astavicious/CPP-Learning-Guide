@@ -1,7 +1,7 @@
 # C++ Learning Guide
 
 ## Table of Contents
-1. [Introduction](./01_introduction.md)
+1. [Introduction](./Introduction.md)
 2. [Basic Concepts](./Basics.md)
 3. [Coding](./03_Codes.md)
 4. [Code Examples](#code-examples)
