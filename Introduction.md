@@ -12,4 +12,4 @@ int main() {
     return 0;
 }
 
-![Path flow of C code](./images/1.png)
+![Description](./images/1.jpg)
